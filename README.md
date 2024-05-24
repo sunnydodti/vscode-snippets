@@ -8,6 +8,10 @@ Download the required `.code-snippets` file from this repo and place it in the `
 
 vs code should do the rest :)
 
+## Download
+
+- [Python](snippets/python.code-snippets)
+
 ## Docs
 
 - [Python](docs/python.md)

@@ -1,0 +1,14 @@
+{
+    "If name main block with main function": {
+        "scope": "python",
+        "prefix": "pym",
+        "body": [
+            "def main():",
+            "\tpass",
+            "",
+            "if __name__ == '__main__':",
+            "    main()"
+        ],
+        "description": "Insert a main() function and if __name__ == '__main__' block"
+    }
+}
